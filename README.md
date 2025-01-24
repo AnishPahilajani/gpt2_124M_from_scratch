@@ -23,7 +23,7 @@ Below is a visual representation of the GPT-2 124M architecture:
 Training performance and loss curve:
 
 ![Training Plot](loss_accuracy_plot.png)
-
+* only trained for 1 epoch or aprox 20,000 steps
 
 ## Transformer, GPT2, GPT3 paper used as reference
 Transformers: https://arxiv.org/abs/1706.03762
