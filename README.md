@@ -16,7 +16,7 @@ Below is a visual representation of the GPT-2 124M architecture:
 ## Training Process
 1. **Data Preparation**: Preprocessed the dataset to ensure compatibility with the GPT-2 tokenizer.
 2. **Model Initialization**: Implemented GPT-2 architecture and initialized weights.
-3. **Optimization**: Used Adam optimizer with learning rate scheduling for efficient training.
+3. **Optimization**: Used AdamW optimizer with learning rate scheduling for efficient training.
 4. **Multi-GPU Setup**: Enabled DDP for scalable training.
 
 ## Results
@@ -24,3 +24,8 @@ Training performance and loss curve:
 
 ![Training Plot](loss_accuracy_plot.png)
 
+
+## Transformer, GPT2, GPT3 paper used as reference
+Transformers: https://arxiv.org/abs/1706.03762
+GPT2: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+GPT3: https://arxiv.org/abs/2005.14165
