@@ -10,7 +10,7 @@ This project involves training GPT-2 (124M parameters) from scratch using PyTorc
 
 ## Architecture
 Below is a visual representation of the GPT-2 124M architecture:
-
+![GPT2 architecture](gpt2.png)
 
 
 ## Training Process
