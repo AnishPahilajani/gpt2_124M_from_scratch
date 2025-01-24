@@ -27,7 +27,9 @@ Training performance and loss curve:
 
 ## Transformer, GPT2, GPT3 paper used as reference
 Transformers: https://arxiv.org/abs/1706.03762
+
 GPT2: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+
 GPT3: https://arxiv.org/abs/2005.14165
 
-Credit: Andrej Karpathy
+Credit: Andrej Karpathy: https://www.youtube.com/watch?v=l8pRSuU81PU
