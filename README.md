@@ -22,4 +22,5 @@ Below is a visual representation of the GPT-2 124M architecture:
 ## Results
 Training performance and loss curve:
 
-![Training Plot](loss accuracy plot.png)
+![Training Plot](loss_accuracy_plot.png)
+
